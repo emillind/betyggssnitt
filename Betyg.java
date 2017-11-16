@@ -7,17 +7,15 @@ class Betyg {
     try {
       BufferedReader b = new BufferedReader(new InputStreamReader(System.in));
       String line;
-      ArrayList<String> courses = new ArrayList<String>();
       double weighted = 0;
       double sum = 0;
       while((line = b.readLine()) != null) {
         String[] split = line.split("[ \t]");
-        for (String s : split ) {
-          System.out.println(s);
-        }
+        // for (String s : split ) {
+        //   System.out.println(s);
+        // }
         String firstThree = split[0].substring(0,3);
         if (!isNumeric(firstThree.substring(0,1)) && !isNumeric(firstThree.substring(1,2)) && isNumeric(firstThree.substring(2,3))) {
-          courses.add(line);
           double converted = convertGrade(split[split.length-3]);
           double credits = Double.parseDouble(split[split.length-5].replace(",", "."));
           if (converted != -1) {

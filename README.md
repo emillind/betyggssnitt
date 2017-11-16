@@ -2,7 +2,7 @@ Betygssnitt for dummies:
 
 Summan(betyg*poäng) / Summa(poäng)
 
-1. Kopiera in din resultatssida i resultat.in
+1. Kopiera in din alla kurser som är avklarade från din resultatsida i resultat.in
 2. javac Betyg.java
 3. java Betyg < resultat.in
 
