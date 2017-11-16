@@ -1,0 +1,81 @@
+DD2380	Artificiell intelligens	6,0 	C		2017-11-01
+LAB1	Laborationer	4,0 	P		2017-11-01
+TEN1	Tentamen	2,0 	P		2017-11-01
+SF1630	Diskret matematik	9,0 	E		2017-10-24
+TENA	Tentamen	6,0 	E		2016-10-25
+TENB	Tentamen	3,0 	E		2017-10-24
+DD142X	Examensarbete inom datalogi, grundnivå	15,0 	P		2017-06-28
+XUPP	Examensuppgift	15,0 	P		2017-06-28
+DD1390	Programsammanhållande kurs i datateknik	6,0 	A		2017-05-19
+UPP1	Uppgifter	2,0 	P		2015-08-28
+UPP2	Uppgifter	3,0 	B		2016-06-08
+UPP3	Uppgifter	1,0 	P		2017-05-19
+DH2642	Interaktionsprogrammering och dynamiska webben	7,5 	C		2017-04-19
+LAB1	Laboration	3,0 	P		2017-03-03
+PRO1	Projekt	4,5 	C		2017-04-19
+SF1626	Flervariabelanalys	7,5 	C		2017-03-15
+TEN1	Tentamen	7,5 	C		2017-03-15
+ID2200	Operativsystem	6,0 	D		2017-02-09
+TENA	Tentamen	6,0 	D		2017-02-09
+DD2395	Datasäkerhet	6,0 	D		2017-01-18
+LAB1	Laborationer	3,0 	P		2016-12-16
+TEN1	Tentamen	3,0 	D		2017-01-18
+DD1352	Algoritmer, datastrukturer och komplexitet	9,0 	E		2017-01-12
+MAS1	Mästarprov	1,5 	E		2016-10-20
+LAB1	Laborationsuppgifter	3,0 	P		2016-11-18
+TEN2	Tentamen	3,0 	E		2016-12-19
+MAS2	Mästarprov	1,5 	E		2017-01-12
+SF1901	Sannolikhetsteori och statistik I	6,0 	D		2017-01-09
+TEN1	Tentamen	6,0 	D		2017-01-09
+DD1393	Mjukvarukonstruktion	10,5 	A		2016-06-02
+ÖVN1	Övning	10,5 	A		2016-06-02
+DD1368	Databasteknik för D	6,0 	B		2016-04-07
+TEN1	Tentamen	3,0 	B		2016-03-22
+LAB2	Laborationer	3,0 	A		2016-04-07
+ME1010	Organisation och kunskapsintensivt arbete	6,0 	C		2016-03-24
+ÖVN1	Övningsuppgifter	1,0 	P		2016-02-12
+LAB1	Laboration	1,0 	P		2016-03-11
+TEN1	Tentamen	4,0 	C		2016-03-24
+DD1350	Logik för dataloger	6,0 	D		2016-01-18
+LAB1	Laborationer	2,0 	P		2015-12-18
+TEN1	Tentamen	4,0 	D		2016-01-18
+DD1361	Programmeringsparadigm	7,5 	C		2016-01-15
+LAB2	Laborationer	4,5 	C		2015-12-18
+TEN2	Tentamen	3,0 	P		2016-01-15
+AG1814	Hållbar utveckling för datateknik	6,0 	E		2016-01-14
+INL1	Inlämningsuppgift 1	2,5 	E		2015-11-24
+PRO1	Projektuppgift	2,5 	E		2016-01-12
+INL2	Inlämningsuppgift 2	1,0 	P		2016-01-14
+IS1500	Datorteknik och komponenter	9,0 	C		2016-01-11
+ANN1	Komponentuppgift	1,5 	P		2015-12-18
+LAB1	Laborationer	4,5 	P		2016-01-05
+TEN1	Tentamen	3,0 	C		2016-01-11
+DD1339	Introduktion till datalogi	19,0 	A		2015-06-22
+HEM1	Hemuppgift	6,0 	A		2014-12-19
+LAB1	Laborationer	1,5 	P		2014-12-19
+HEM2	Hemuppgift	5,5 	B		2015-06-22
+HEM3	Hemuppgift	3,0 	P		2015-06-22
+PRO1	Projektuppgift	3,0 	P		2015-06-22
+SF1547	Numeriska metoder, grundkurs	6,0 	B		2015-06-05
+LABA	Laborationer	1,5 	P		2015-06-03
+LABB	Laborationer	1,5 	P		2015-06-04
+TEN1	Tentamen	3,0 	B		2015-06-05
+DH1620	Människa-datorinteraktion, inledande kurs	6,0 	B		2015-04-20
+PRO1	Projekt	3,0 	P		2015-04-20
+UPP1	Uppgifter	3,0 	B		2015-04-20
+SF1625	Envariabelanalys	7,5 	E		2015-04-07
+TEN1	Tentamen	7,5 	E		2015-04-07
+SF1604	Linjär algebra	7,5 	E		2015-03-13
+TEN1	Tentamen	7,5 	E		2015-03-13
+DH1600	Kommunikation i ingenjörsvetenskap	7,5 	C		2015-01-07
+ANN2	Uppsats	4,5 	C		2015-01-07
+MUN1	Muntliga uppgifter	3,0 	P		2015-01-07
+SF1659	Matematik, baskurs	4,5 	A		2014-10-06
+TEN1	Tentamen	4,5 	A		2014-10-06
+SF1611	Introduktionskurs i matematik I	1,5 	P		2014-08-18
+ANN1	Introduktion	1,5 	P		2014-08-18
+DD101N	Förberedande kurs i programmering och datalogiskt tänkande	3,0 	P		2014-08-13
+LAB1	Laborationer	0,8 	P		2014-07-23
+LAB2	Laborationer	0,8 	P		2014-07-23
+LAB4	Laborationer	0,7 	P		2014-08-06
+LAB3	Laborationer	0,7 	P		2014-08-13
